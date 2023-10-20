@@ -13,7 +13,6 @@ Este repositório contém um exemplo simples de implementação de Regressão Li
  
 - NumPy
 - Pandas
-- Matplotlib
 - Scikit-Learn
 
 ## Instruções de Uso
@@ -23,7 +22,7 @@ Este repositório contém um exemplo simples de implementação de Regressão Li
 
 ## Passos no Notebook
 
-1. **Importando as bibliotecas:** Importe as bibliotecas necessárias, incluindo NumPy, pandas e Matplotlib.
+1. **Importando as bibliotecas:** Importe as bibliotecas necessárias como NumPy e pandas.
 
 2. **Importando o conjunto de dados:** Importe o conjunto de dados '50_Startups.csv' usando pandas e divida-o em variáveis de entrada e saída (x e y).
 
